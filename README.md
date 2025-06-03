@@ -1,3 +1,3 @@
-![Sudipto Sarkar's Github Stats](https://vercel.sudipto.me/api?username=sudiptosarkar&theme=shadow_green&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=true&hide_borde=true)
+![Sudipto Sarkar's Github Stats](https://vercel.sudipto.me/api?username=sudiptosarkar&theme=shadow_green&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=true&hide_border=true)
 
-![Most Used Languages](https://vercel.sudipto.me/api/top-langs/?username=sudiptosarkar&layout=donut-vertical&langs_count=100&theme=shadow_green&include_all_commits=true&count_private=true&rank_icon=true&include_owned_orgs=true&hide_borde=true)
+![Most Used Languages](https://vercel.sudipto.me/api/top-langs/?username=sudiptosarkar&layout=donut-vertical&langs_count=100&theme=shadow_green&include_all_commits=true&count_private=true&rank_icon=true&include_owned_orgs=true&hide_border=true)
